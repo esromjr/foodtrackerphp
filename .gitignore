@@ -1,0 +1,7 @@
+# Ignore configuration files with passwords
+config.php
+.env
+
+# Ignore OS files
+Thumbs.db
+.DS_Store
